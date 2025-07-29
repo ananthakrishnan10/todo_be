@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+pnpm-debug.log*
+
+# dotenv files
+.env
+.env.local
+
+# Optional:
+.DS_Store         # macOS
+*.swp             # vim swap files
+*.tsbuildinfo     # TypeScript incremental build info
+
+# IDEs
+.vscode/
+.idea/
